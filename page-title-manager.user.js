@@ -4,7 +4,7 @@
 // @version      3.0.0
 // @description  统一管理浏览器标签标题：清理开头的未读计数（3条消息、1 等），并把 bangumi 作品页/角色页的标题换成中文名，收藏成书签时默认名是中文。本脚本是《网页标题标签智能清理器》的重写版。
 // @author       Raynon
-// @license      GNU GPLv3
+// @license      MIT; Copyright (c) 2026 Raynon
 // @match        https://*/*
 // @run-at       document-start
 // @grant        GM_getValue
