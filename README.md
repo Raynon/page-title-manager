@@ -47,4 +47,4 @@
 
 ## 许可
 
-GNU GPLv3（沿用原脚本的许可）。
+MIT —— 见仓库里的 [LICENSE](https://github.com/Raynon/page-title-manager/blob/main/LICENSE)。署名保留版权声明即可随意使用、修改、再发布。
